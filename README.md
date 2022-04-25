@@ -5,7 +5,7 @@
 Initialize backend
 
 ```console
-$ cd MyApp
+$ cd backend
 $ ./bin/server
 ```
 
@@ -16,6 +16,3 @@ $ cd frontend
 $ yarn
 $ yarn start
 ```
-
-```
-
