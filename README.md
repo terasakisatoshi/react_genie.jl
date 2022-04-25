@@ -6,6 +6,7 @@ Initialize backend
 
 ```console
 $ cd backend
+$ julia --project=@. -e 'using Pkg; Pkg.instantiate()'
 $ ./bin/server
 ```
 
